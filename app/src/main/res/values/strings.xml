@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_activity_about_alc">About Alc</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="header_text">Welcome to ALC 4.0</string>
+    <string name="button_1">ABOUT ALC</string>
+    <string name="button_2">MY PROFILE</string>
+    <string name="name_view">Charleen Lozi</string>
+    <string name="profile_image">myProfile</string>
+    <string name="view_track">Track:</string>
+    <string name="view_track_name">Android</string>
+    <string name="view_country">Country:</string>
+    <string name="view_country_name">Kenya</string>
+    <string name="view_email">Email:</string>
+    <string name="view_email_name">clozymwangs@gmail.com</string>
+    <string name="view_number">Phone Number:</string>
+    <string name="view_phone_number">254798570874</string>
+    <string name="view_slack">Slack Username:</string>
+    <string name="view_slack_name">@clozy</string>
+</resources>
